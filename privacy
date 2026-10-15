@@ -1,0 +1,55 @@
+Privacy Policy for FinnPeace
+
+Effective Date: October 14, 2026
+Last Updated: October 14, 2026
+
+Welcome to FinnPeace (the "Application"), a gamified meditation, wellness, and entertainment mobile application developed and operated by What Other People Think Ltd. ("we," "us," or "our"). We are committed to protecting your privacy and ensuring your personal data is handled securely and transparently in accordance with the General Data Protection Regulation (GDPR) [individuals/], the California Consumer Privacy Act (CCPA) as amended by the California Privacy Rights Act (CPRA), and other applicable global privacy frameworks.
+
+1. Data Controller and Contact Information
+
+For the purposes of applicable data protection laws, the data controller responsible for your personal data is:
+
+Legal Entity: What Other People Think Ltd.
+Location: Espoo, Finland
+Contact Email: findingfinnpeace@
+
+2. Information We Collect and Process
+We process personal data via secure cloud database architecture. Anonymous account access is prohibited; mandatory authentication is enforced via our onboarding gate. We collect and process data under the following lawful bases:
+
+  A. Data Necessary for the Performance of a Contract
+  To manage your gamified user account, track progress mechanics, and prevent timeline tracking errors, we store:
+  Authentication & Profile Data: Email address, display name, unique User ID, profile image paths, phone numbers, and account creation timestamps.
+  Gamification & Progression Metrics: Cumulative experience points, progression levels, daily claim status logs, streak tracking metrics, item or reward heals, and historical session totals.
+  User State & System Preferences: Application configurations including automated audio playback states, audio selection strings, and volume levels.
+  Operational Interaction Logs: Timestamps mapping the initiation and completion of practices, duration records, transactional point outputs, categorizations of content utilized, application versions, and device operating system metrics.
+
+  B. Data Processed with Your Explicit Consent
+  User Feedback: If you submit feedback through our internal features, we process your submitted title, descriptive input, and any uploaded image configurations. This material is confidential and restricted solely to administrative review.
+  Device Identifiers & Performance Optimization: With your explicit consent via our launch prompt, we analyze behavioral flow metadata using analytical software metrics.
+
+3. Google Analytics and Custom Event Tracking
+We utilize Google Analytics for Firebase to monitor application health, user retention, and reward mechanics. When a meditation session terminates, our architecture transmits an operational event mapping session completions (meditation_session_completed).
+For sessions meeting our minimum structural time constraints (3 minutes or longer), this analytics event dynamically carries calculated gamification values.
+For unqualified or accelerated sessions, the analytics event records a value of zero points.
+This data is used exclusively to optimize our system performance. You can manage or revoke your analytical consent at any target interval via your native device settings. Google Analytics' privacy protocols can be reviewed at: google.com.
+
+4. Google AdMob and Third-Party Advertising
+To support our free tier, we display mobile ads using Google AdMob programmatic advertising infrastructure. On our free tier, an advertisement is loaded and displayed strictly after a user completes a meditation practice and accesses the summary statistics layout.
+User Consent Framework: For users located in the European Economic Area (EEA), United Kingdom, and Switzerland, ad tracking is strictly disabled by default. Personalized advertising profiles will only activate if you explicitly select "Consent" on our initial European Regulations privacy prompt via the Google User Messaging Platform (UMP) SDK.
+Underage Protection Safeguards & COPPA/CPRA Compliance: We strictly enforce privacy boundaries for minors. If a user profile is detected as being under the digital age of consent (13 years of age in Finland and the United States) or within restricted teen demographics (under 16) under California CPRA laws, our system flags the session. It completely disables behavioral tracking globally, overriding standard ad requests to serve privacy-safe, non-personalized contextual ads only.
+
+5. Transaction Processing and Subscription Management
+Subscription and account upgrade status indicators are evaluated natively to turn off all ad tracking payloads, unlocking completely ad-free meditation loops. Financial transactions, billing profiles, and entitlement verification are securely managed entirely by third-party storefront billing platforms and infrastructure via the Apple App Store (Apple In-App Purchases), the Google Play Store (Google Play Billing), and RevenueCat. We have no direct access to, nor do we store, your credit card numbers or financial credentials.
+
+6. Data Retention and Deletion Rights
+We retain your information only for as long as your account exists. Under the GDPR, you possess absolute rights regarding access, rectification, or the complete deletion of your personal data.
+Cascading Reference Deletion: You can request the absolute removal of your data via the settings panel or by emailing us. Our database architecture utilizes an automatic cascading reference deletion framework—the moment your account is deleted, your corresponding user document, your entire session history log, and your submitted feedback metrics are permanently erased from production servers.
+
+6.1 California Privacy Rights (CCPA/CPRA Notice)
+If you are a resident of California, you possess specific rights regarding your personal information, including the right to request disclosure of data collection categories, the right to opt-out of the sale or sharing of personal data, and the right to non-discrimination for exercising your privacy rights. As stated, we do not sell or share your personal data with third-party brokers. To exercise your data transparency rights, please submit a request to our verified support contact email.
+
+7. Third-Party Links and External Content
+The Application may contain links to external websites, streaming platforms (such as YouTube), or third-party service providers. We do not operate, control, or endorse the privacy practices, tracking scripts, or content of these external networks. We encourage you to review the privacy protocols of any third-party interface you access via our services.
+
+8. International Data Transfers
+Data is securely routed through cloud hosting architecture. Some analytical metadata may occasionally be processed on infrastructure located outside the EEA (such as secure servers in the United States). All such data pipelines are guarded using European Commission-approved Standard Contractual Clauses (SCCs) to guarantee absolute data security.
