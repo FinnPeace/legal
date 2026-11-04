@@ -1,109 +1,85 @@
 Terms and Conditions for FinnPeace
 
-Effective Date: October 14, 2026
-Last Updated: October 14, 2026
+Effective Date: November 4, 2026
+Last Updated: November 4, 2026
 
-These Terms and Conditions ("Terms") form a legally binding agreement between you ("User" or "you") and What Other People Think Ltd. ("Developer," "we," "us," or "our"), governing your access to and use of the mobile application FinnPeace (the "Application") and any related media channels, marketing materials, or content streams.
-
+These Terms and Conditions ("Terms") form a legally binding agreement between you ("User" or "you") and Sqiara Oy ("Developer," "we," "us," or "our"), governing your access to and use of the mobile application FinnPeace (the "Application") and any related media channels, marketing materials, or content streams.
 By downloading, installing, or accessing FinnPeace, you explicitly agree to be bound by these Terms. If you do not agree with any part of these Terms, you are strictly prohibited from using the Application.
 
-
 1. Age Eligibility & Account Security
-
 This Application is intended solely for users who meet the minimum legal age required to consent to digital data processing under the local laws of their country of residence (e.g., 13 years of age in Finland and the United States, or up to 16 years of age in certain European Union nations).
-
 By downloading, accessing, or using this Application, you represent and warrant that you meet these age requirements. If you are under the legal age of digital consent in your jurisdiction, you are strictly prohibited from using this Application. Anonymous account creation is prohibited; mandatory authentication is required to access our gamified progression features.
 
-
 2. Medical and Mental Health Disclaimer
-
 No Medical Advice Provided
-
-The content, audio sessions, meditation guides, text, graphics, and other materials contained within this Application, and in other media related, are provided for informational, educational, entertainment, and general wellness purposes only. They do not constitute professional medical advice, diagnosis, or treatment.
-
+The content, audio sessions, meditation guides, text, graphics, campaign promotional text, video pitches, advertisement assets, and presentation materials contained within this Application, or shared on external marketing channels in any format (including but not limited to video, audio, text, or imagery), are provided for informational, educational, entertainment, and general wellness purposes only. They do not constitute professional medical advice, diagnosis, or treatment.
 Not a Substitute for Professional Healthcare
-
-This Application is not a medical device, nor is it a substitute for professional mental health counseling, psychotherapy, psychiatry, or general medical care. If you are experiencing severe anxiety, deep depression, trauma, suicidal thoughts, or any other mental health conditions, you must seek immediate advice from a qualified healthcare professional. Never disregard professional medical advice or delay seeking it because of something you heard or read within this Application, or within videos, images, texts, or other media related to it.
-
+This Application is not a medical device, nor is it a substitute for professional mental health counseling, psychotherapy, psychiatry, or general medical care. The Developer makes no scientific, medical, or therapeutic claims regarding the clinical efficacy of the Application’s gamified exercises, audio tracks, written content, visual assets, or any other media format. If you are experiencing severe anxiety, deep depression, trauma, suicidal thoughts, or any other mental health conditions, you must seek immediate advice from a qualified healthcare professional. Never disregard professional medical advice or delay seeking it because of something you heard, read, or viewed within this Application, or within advertisements, videos, images, texts, or other media related to it.
 Assumption of Risk
-
-You explicitly agree that your use of this Application is at your own risk. Meditation, mindfulness, and breathing exercises are generally safe, but they may cause unexpected emotional or physical sensitivity in certain individuals. If you feel discomfort, distress, or anxiety at any point during a session, you must stop using the Application immediately. The Developer assumes no liability or responsibility for any health consequences, injuries, or psychological distress resulting from your use of the Application or reliance on its content.
-
+You explicitly agree that your use of this Application and reliance on any related marketing materials is at your own risk. Meditation, mindfulness, and breathing exercises are generally safe, but they may cause unexpected emotional or physical sensitivity in certain individuals. If you feel discomfort, distress, or anxiety at any point during a session, you must stop using the Application immediately. The Developer assumes no liability or responsibility for any health consequences, injuries, or psychological distress resulting from your use of the Application, reliance on its content, or exposure to its promotional media.
 
 3. Premium Subscriptions, Billing, and Purchases
-
 We offer a free tier that provides a limited number of daily meditation sessions supported by advertisements displayed strictly after your meditation practice completes. We also offer paid subscription options ("Premium features" or "Subscriptions") that unlock additional features, unlimited daily practices, and remove advertisements.
-
-All in-app purchases, transactions, and premium permissions are validated via third-party systems and processed directly through third-party app stores via Apple App Store Connect (Apple In-App Purchases) and the Google Play Console (Google Play Store Billing), utilizing RevenueCat data infrastructure.
-
+All in-app purchases, transactions, and premium permissions are validated via third-party systems and processed directly through third-party app stores via Apple App Store Connect (Apple In-App Purchases) and the Google Play Console (Google Play Store Billing), utilizing RevenueCat data infrastructure. Promotional tiers, pre-sales, or crowdfunding rewards are initially authenticated and processed via the Developer’s secure database architecture (Google Firebase Firestore) before premium entitlements are enabled.
 Subscription Fees: Access to paid features is subject to fees detailed at the point of purchase within the Application storefront. We reserve the right to modify our pricing models, upgrade names, or fee tiers at any time. Any changes will be displayed clearly within the respective app store storefront prior to confirmation.
+Definition of Lifetime Access (If Applicable): If and where the Developer offers a one-time "Lifetime" access plan or reward tier, this entitlement grants premium access to the Application's digital features solely for as long as the Application is actively maintained, commercially available, and supported by the Developer. A "Lifetime" subscription signifies the structural commercial lifespan of the software product itself, and does not guarantee indefinite server uptime, compatibility with future operating systems, or service availability throughout the human lifespan of the User.
 Payment Authorization: By initiating a purchase within the Application, you represent that you are legally authorized to use the chosen payment method. If you are a minor, you must obtain explicit parental or guardian permission before making any financial transactions.
 Billing and Refunds: All billing inquiries, auto-renewals, cancellations, and refund requests are governed entirely by the respective terms of the Apple App Store or Google Play Store and must be handled directly through your app store account settings. The Developer does not process, store, or manage your payment card details, nor do we directly issue financial refunds.
 3.1 EU Consumer Right of Withdrawal & Instant Performance
-
 If you are a consumer residing within the European Union or European Economic Area, you generally possess a statutory right to withdraw from digital contracts within 14 days without giving any reason. However, by initiating a digital subscription or paid upgrade within FinnPeace, you explicitly request and consent to the immediate performance of the contract (the instant delivery of the digital content). You acknowledge and agree that once the digital content is unlocked or delivered to your account, you completely lose your statutory 14-day right of withdrawal under EU consumer protection frameworks. All subsequent cancellations must be managed through your respective third-party storefront (Apple App Store or Google Play Store).
-
+3.2 Crowdfunding Addendum
+The provisions of this Section 3.2 apply strictly to Users who acquire access, premium upgrades, digital perks, or any physical goods and campaign rewards via any third-party crowdfunding platform (including, but not limited to, Indiegogo or Kickstarter).
+Platform Processing: All transactions, pledge fulfillment mechanics, and campaign-level refunds are governed strictly by the terms of use of that specific crowdfunding platform alongside any policies displayed on the active campaign page. The standard storefront billing rules outlined in Section 3 (Apple App Store / Google Play Store billing) do not apply to payments processed directly through crowdfunding networks.
+Redemption and Account Integration: To access the Application using a crowdfunding perk, users must create or log into an authenticated account within the Application. Once the crowdfunding reward token, physical good, or premium status is successfully credited or fulfilled, the crowdfunding transaction phase is deemed complete. 
+Token Expiration and Forfeiture: All digital perks, premium access codes, or validation tokens acquired through a crowdfunding campaign must be successfully redeemed within twelve (12) months from the official commercial launch date of the Application on public storefronts. If a User fails to redeem their token within this 1-year window, the token will permanently expire. Expired tokens carry no cash value, and the Developer is under no legal obligation to issue refunds, extensions, or alternative financial compensation for unredeemed rewards. 
+Alternative Entitlement Structures: Crowdfunding backers explicitly acknowledge that their premium access is fulfilled via manual administrative whitelisting, promotional codes, or custom account configurations managed directly by the Developer. Consequently, these accounts will feature alternative billing statuses that bypass native storefront subscription management layouts, and no active transactional receipts will appear within the User’s Apple ID or Google Play billing history.
+Subsequent Storefront Purchases: If a crowdfunding backer who has already been granted premium access later manually initiates a separate paid subscription directly through the Apple App Store or Google Play Store, that storefront transaction is handled exclusively by Apple or Google under Section 3. The Developer cannot automatically cancel, override, or refund storefront subscriptions to clear space for a crowdfunding perk. The User assumes full responsibility for managing their active app store subscriptions to avoid duplicate billing.
+Subsequent Governance: Following account redemption, all software usage, active premium feature lifespans, app store integrations, and limitations of liability are fully subject to the standard provisions of these Terms, regardless of whether the Application was already live on public storefronts at the time of the campaign.
 
 4. Intellectual Property Rights
-
 Unless otherwise indicated, the Application, including all source code, databases, functionality, software, website designs, audio files, video files, text, photographs, and graphics within the Application (collectively, the "Content") are owned or controlled by us and are protected by copyright, trademark, and intellectual property laws. You are granted a limited, non-exclusive, non-transferable, and revocable license to use the Application strictly for your personal, non-commercial use. You must not copy, reproduce, or distribute any Content for commercial purposes without our express prior written permission.
 
-
 5. Limitation of Liability and Cap on Monetary Damages
-
-To the maximum extent permitted by applicable law (including the laws of Finland), in no event shall What Other People Think Ltd., its developers, operators, owners, shareholders, founders, directors, employees, or partners be liable for any direct, indirect, incidental, consequential, special, punitive, or exemplary damages. This includes, without limitation, damages for loss of profits, data corruption, emotional distress, or psychological conditions arising out of or in connection with your access, use, or inability to use the Application.
-
-In any event, the maximum collective financial liability of What Other People Think Ltd. and its individuals to you for any and all claims, lawsuits, or causes of action shall be strictly capped at and limited to the total amount of fees paid by you to the Developer for the Application during the twelve (12) month period immediately preceding the event giving rise to the liability, or fifty euros (€50.00), whichever is greater.
-
+To the maximum extent permitted by applicable law (and except in cases of gross negligence, willful misconduct, or personal or psychological injury where liability cannot be legally limited), in no event shall Sqiara Oy., its developers, operators, owners, shareholders, founders, directors, employees, or partners be liable for any direct, indirect, incidental, consequential, special, punitive, or exemplary damages. This includes, without limitation, damages for loss of profits, data corruption, emotional distress, or psychological conditions arising out of or in connection with your access, use, or inability to use the Application.
+In any event, the maximum collective financial liability of Sqiara Oy and its individuals to you for any and all claims, lawsuits, or causes of action shall be strictly capped at and limited to the total amount of fees paid by you to the Developer for the Application during the twelve (12) month period immediately preceding the event giving rise to the liability, or fifty euros (€50.00), whichever is greater.
 5.1 Personal Corporate Insulation Veil
-
-You explicitly acknowledge and agree that these Terms are entered into strictly and solely with the corporate entity What Other People Think Ltd. You agree that no personal, individual, or independent liability can or will be assigned to any individual owner, founder, individual developer, officer, director, or employee of the corporate entity on account of services, content, audio playbacks, system downtimes, or information delivered through the Application. You waive all rights to bring individual claims against the company's human operators or shareholders.
-
+You explicitly acknowledge and agree that these Terms are entered into strictly and solely with the corporate entity Sqiara Oy You agree that no personal, individual, or independent liability can or will be assigned to any individual owner, founder, individual developer, officer, director, or employee of the corporate entity on account of services, content, audio playbacks, system downtimes, or information delivered through the Application. You waive all rights to bring individual claims against the company's human operators or shareholders.
 5.2 Indemnification (Hold Harmless)
-
-You agree to defend, indemnify, and hold completely harmless What Other People Think Ltd., its founders, owners, operators, and employees from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable legal and attorney fees) arising out of or in any way connected with: (i) your access to or misuse of the Application; (ii) your violation of these Terms; (iii) your violation of any third-party rights, including intellectual property or privacy rights; or (iv) any data manipulation, database cracking, or unauthorized scripting conducted via your account.
-
+You agree to defend, indemnify, and hold completely harmless Sqiara Oy, its founders, owners, operators, and employees from and against any and all claims, liabilities, damages, losses, costs, and expenses (including reasonable legal and attorney fees) arising out of or in any way connected with: (i) your access to or misuse of the Application; (ii) your violation of these Terms; (iii) your violation of any third-party rights, including intellectual property or privacy rights; or (iv) any data manipulation, database cracking, or unauthorized scripting conducted via your account.
 
 6. Warranty Disclaimer ("As-Is" Clause)
-
-The Application is provided on an "AS IS" and "AS AVAILABLE" basis. To the maximum extent permitted by law, What Other People Think Ltd. disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the Application will be uninterrupted, secure, error-free, or free of data synchronization delays caused by cloud hosting infrastructure, nor do we guarantee the permanent retention of user streaks or progress metrics in the event of hardware or software network failures.
-
+The Application is provided on an "AS IS" and "AS AVAILABLE" basis. The Developer reserves the right to permanently retire, modify, or cease maintenance of the Application at any time, in its sole discretion, signifying the conclusion of the Application's commercial lifespan. To the maximum extent permitted by law, and subject to any non-excludable consumer guarantees under local consumer protection laws (such as the Australian Consumer Law), Sqiara Oy disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the Application will be uninterrupted, secure, error-free, or free of data synchronization delays caused by cloud hosting infrastructure, nor do we guarantee the permanent retention of user streaks or progress metrics in the event of hardware or software network failures.
 
 7. App Store Platform Insulation (Apple & Google Mandate)
-
-You acknowledge and agree that these Terms are concluded solely between you and What Other People Think Ltd., and not with Apple Inc. or Google LLC.
-
+You acknowledge and agree that these Terms are concluded solely between you and Sqiara Oy, and not with Apple Inc. or Google LLC.
 Maintenance and Support: The Developer is solely responsible for providing any maintenance and support services for the Application. Apple and Google have no obligation whatsoever to furnish any maintenance or support services.
 Legal Claims: The Developer, not Apple or Google, is responsible for addressing any claims relating to the Application, including product liability, consumer protection claims, or intellectual property infringement claims.
 
 8. Restrictions on Artificial Intelligence (AI) and Scraping
-
-All Content, including but not limited to unique audio tracks, meditation logs, visual structures, narrative scripts, character assets ("Finn the Seal"), and textual guides, is the exclusive property of What Other People Think Ltd. You are strictly prohibited from utilizing data mining, robots, screen scraping, or similar data gathering and extraction tools to copy, harvest, or train artificial intelligence (AI) systems, large language models (LLMs), or machine learning neural frameworks using any component of this Application or related media.
-
+All Content, including but not limited to unique audio tracks, meditation logs, visual structures, narrative scripts, character assets ("Finn the Seal"), and textual guides, is the exclusive property of Sqiara Oy. You are strictly prohibited from utilizing data mining, robots, screen scraping, or similar data gathering and extraction tools to copy, harvest, or train artificial intelligence (AI) systems, large language models (LLMs), or machine learning neural frameworks using any component of this Application or related media.
 
 9. Account Suspension and Termination
-
-We reserve the right, in our sole and absolute discretion, to suspend, restrict, or permanently terminate your account and access to the Application at any time, without notice and without liability, for any reason whatsoever. This includes, but is not limited to, breach of these Terms, suspected manipulation or fraudulent exploitation of our gamification and reward mechanics (including unauthorized altering of progression values or points logs), or submission of abusive or harmful material through our support or feedback channels. Upon termination, all virtual progress, levels, and points associated with your profile are instantly forfeited.
-
+We reserve the right, in our sole and absolute discretion, to suspend, restrict, or permanently terminate your account and access to the Application at any time, with immediate effect and without prior notice, if we reasonably suspect or determine that you have breached these Terms, violated applicable laws, or engaged in fraudulent exploitation of our gamification and reward mechanics. This includes, but is not limited to, breach of these Terms, suspected manipulation or fraudulent exploitation of our gamification and reward mechanics (including unauthorized altering of progression values or points logs), or submission of abusive or harmful material through our support or feedback channels. Upon termination, all virtual progress, levels, and points associated with your profile are instantly forfeited.
 
 10. Force Majeure
-
 We shall not be held liable or responsible for any failure to perform, or delay in performance of, any of our obligations under these Terms that is caused by events outside our reasonable control, including but not limited to global internet outages, server infrastructure collapse, telecommunication failures, cyber warfare, acts of God, or regulatory actions.
 
-
 11. Severability and Waiver
-
 If any provision or part of a provision of these Terms is determined by a court of competent jurisdiction to be unlawful, void, or unenforceable, that specific provision or part thereof shall be deemed severable from these Terms. Such determination shall not affect the validity, legality, and enforceability of any of the remaining provisions, which shall continue in full force and effect. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision.
 
+12. Governing Law and Dispute Resolution 
+12.1 Governing Law: 
+These Terms and your use of the Application are governed by and construed in accordance with the laws of Finland, without regard to its conflict of law principles.
+12.2 Jurisdiction for Non-Consumers & B2B: 
+If you are using this Application for commercial purposes, as a business entity, or where consumer protection laws do not dictate otherwise, any legal action, dispute, or proceeding arising under these Terms shall be brought exclusively in the Länsi-Uudenmaan käräjäoikeus (Western Uusimaa District Court) or the Helsinki District Court, Finland. 
+12.3 Consumer Carve-Out (EU/EEA/UK/AU): 
+If you are a consumer residing within the European Union, European Economic Area, the United Kingdom, Australia, or New Zealand, nothing in these Terms strips you of your mandatory local consumer rights. You may bring legal proceedings against the Developer in your local home courts. Additionally, EU residents have the right to submit disputes to the Finnish Consumer Disputes Board (Kuluttajariitalautakunta) or utilize the European Commission’s Online Dispute Resolution (ODR) platform. 
+12.4 Special Mandatory Provisions for United States and Canadian Residents: 
+If you are a resident of the United States or Canada, you and the Developer explicitly agree that any and all disputes, claims, or controversies arising out of or relating to this Application, its content, or these Terms shall be resolved exclusively through BINDING, INDIVIDUAL ARBITRATION administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules. 
+TO THE MAXIMUM EXTENT PERMITTED BY LOCAL LAW, YOU AND THE DEVELOPER EXPLICITLY WAIVE THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. You may only bring claims against the Developer in your individual capacity. 
 
-12. Governing Law
-
-These Terms and your use of the Application are governed by and construed in accordance with the laws of Finland, without regard to its conflict of law principles. Any legal action or proceeding arising under these Terms shall be brought exclusively in the courts located in Finland.
-
-
-13. Contact Us
-
-If you have any questions, require clarification regarding these Terms, or wish to exercise your user data control parameters, please contact us at:
-
-Email: [Your Support/Business Email Address]
-Location: Espoo, Finland
+13. Contact Us 
+If you have any questions or require clarification regarding these Terms, please contact us at: 
+Email: findingfinnpeace@gmail.com
+Corporate Entity: Sqiara Oy
+Location: Espoo, Finland 
