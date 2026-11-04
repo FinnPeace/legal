@@ -81,8 +81,11 @@ If you are a consumer residing within the European Union, European Economic Area
 12.4 Special Mandatory Provisions for United States and Canadian Residents: 
 If you are a resident of the United States or Canada, you and the Developer explicitly agree that any and all disputes, claims, or controversies arising out of or relating to this Application, its content, or these Terms shall be resolved exclusively through BINDING, INDIVIDUAL ARBITRATION administered by the American Arbitration Association (AAA) under its Consumer Arbitration Rules. 
 TO THE MAXIMUM EXTENT PERMITTED BY LOCAL LAW, YOU AND THE DEVELOPER EXPLICITLY WAIVE THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION. You may only bring claims against the Developer in your individual capacity. 
-
-13. Contact Us 
+13. Changes to These Terms 
+We reserve the right, at our sole discretion, to modify, update, or replace these Terms of Service at any time to reflect software updates, operational changes, or shifting legal requirements.
+If a revision is material (such as changes to subscription entitlements, usage caps, or reward point mechanics), we will provide notice within the Application interface or via email prior to the new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+By continuing to access or use our Application after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, in whole or in part, you must stop using the Application and terminate your account.
+14. Contact Us 
 If you have any questions or require clarification regarding these Terms, please contact us at: 
 Email: findingfinnpeace@gmail.com
 Corporate Entity: Sqiara Oy
