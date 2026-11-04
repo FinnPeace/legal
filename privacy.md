@@ -36,7 +36,7 @@ Manual Refund Processing: If a manual refund is required outside of standard pla
 We utilize Google Analytics for Firebase to monitor application health, user retention, and reward mechanics. When a meditation session terminates, our architecture transmits an operational event mapping session completions (meditation_session_completed).
 For sessions meeting our minimum structural time constraints (3 minutes or longer), this analytics event dynamically carries calculated gamification values.
 For unqualified or accelerated sessions, the analytics event records a value of zero points.
-This data is used exclusively to optimize our system performance. You can manage or revoke your analytical consent at any target interval via your native device settings. Google Analytics' privacy protocols can be reviewed at: [Google Privacy Policy](https://google.com).
+This data is used exclusively to optimize our system performance. You can manage or revoke your analytical consent at any target interval via your native device settings. Google Analytics' privacy protocols can be reviewed at: [Google Privacy & Terms Partner Page](https://google.com).
 
 4. Google AdMob and Third-Party Advertising
 To support our free tier, we display mobile ads using Google AdMob programmatic advertising infrastructure. On our free tier, an advertisement is loaded and displayed within the Application interface, typically following the conclusion of a session. Google AdMob's privacy protocols can be reviewed at the [Google Advertising Privacy Policy](https://google.com). 
@@ -62,4 +62,3 @@ Data is securely routed through cloud hosting architecture. Some analytical meta
 
 9. Changes to This Privacy Policy
 We reserve the right to update or modify this Privacy Policy at any time to reflect updates to our operational practices or shifting regulatory requirements. We will notify you of any material changes by posting the updated policy directly on this page and updating the "Last Updated" date above. Continued use of the Application following the deployment of changes constitutes your acknowledgment of the revised terms. 
-
