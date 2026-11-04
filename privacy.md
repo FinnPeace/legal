@@ -36,10 +36,10 @@ Manual Refund Processing: If a manual refund is required outside of standard pla
 We utilize Google Analytics for Firebase to monitor application health, user retention, and reward mechanics. When a meditation session terminates, our architecture transmits an operational event mapping session completions (meditation_session_completed).
 For sessions meeting our minimum structural time constraints (3 minutes or longer), this analytics event dynamically carries calculated gamification values.
 For unqualified or accelerated sessions, the analytics event records a value of zero points.
-This data is used exclusively to optimize our system performance. You can manage or revoke your analytical consent at any target interval via your native device settings. Google Analytics' privacy protocols can be reviewed at: google.com.
+This data is used exclusively to optimize our system performance. You can manage or revoke your analytical consent at any target interval via your native device settings. Google Analytics' privacy protocols can be reviewed at: [Google Privacy Policy](https://google.com).
 
 4. Google AdMob and Third-Party Advertising
-To support our free tier, we display mobile ads using Google AdMob programmatic advertising infrastructure. On our free tier, an advertisement is loaded and displayed within the Application interface, typically following the conclusion of a session.
+To support our free tier, we display mobile ads using Google AdMob programmatic advertising infrastructure. On our free tier, an advertisement is loaded and displayed within the Application interface, typically following the conclusion of a session. Google AdMob's privacy protocols can be reviewed at the [Google Advertising Privacy Policy](https://google.com). 
 User Consent Framework: For users located in the European Economic Area (EEA), United Kingdom, and Switzerland, ad tracking is strictly disabled by default. Personalized advertising profiles will only activate if you explicitly select "Consent" on our initial European Regulations privacy prompt via the Google User Messaging Platform (UMP) SDK.
 Underage Protection Safeguards & COPPA/CPRA Compliance: We strictly enforce privacy boundaries for minors. If a user profile is detected as being under the digital age of consent (13 years of age in Finland and the United States) or within restricted teen demographics (under 16) under California CPRA laws, our system flags the session. It completely disables behavioral tracking globally, overriding standard ad requests to serve privacy-safe, non-personalized contextual ads only.
 
@@ -49,7 +49,7 @@ All transaction processing is subject to the privacy parameters of our infrastru
 
 6. Your Privacy Rights & Data Retention
 We only keep your information for as long as your account exists. Upon account deletion, all personal profile identifiers are permanently erased. Campaign or promotional redemption logs are stripped of personal contact metadata (such as your email address) and retained strictly in an anonymized state to maintain system integrity and prevent promotional fraud. If you live in the EU, UK, or Canada, you have the strict legal right to access, update, export, restrict, or completely delete your personal data at any time, as well as the right to file a complaint with your local data protection authority (such as Finland's Tietosuojavaltuutettu).
-You can instantly delete your account and permanently erase all associated data (including your profile, meditation history, and feedback metrics) directly inside the app settings panel, or by reaching out to our support email.
+You can instantly delete your account and permanently erase all associated data (including your profile, meditation history, and feedback metrics) directly inside the app settings panel, or by reaching out to our support email at findingfinnpeace@gmail.com.
 
 6.1 California Privacy Rights (CCPA/CPRA Notice)
 If you are a resident of California, you possess specific rights regarding your personal information, including the right to request disclosure of data collection categories, the right to opt-out of the sale or sharing of personal data, and the right to non-discrimination for exercising your privacy rights. As stated, we do not sell or share your personal data with third-party brokers. To exercise your data transparency rights, please submit a request to our verified support contact email.
@@ -59,4 +59,7 @@ The Application may contain links to external websites, streaming platforms (suc
 
 8. International Data Transfers
 Data is securely routed through cloud hosting architecture. Some analytical metadata may occasionally be processed on infrastructure located outside the EEA, such as secure servers in the United States (including Google Analytics for Firebase). To ensure your data remains completely safe, these data pipelines are strictly guarded using European Commission-approved Standard Contractual Clauses (SCCs) and/or certified participation in the EU-U.S. Data Privacy Framework to guarantee equivalent data protection safeguards. 
+
+9. Changes to This Privacy Policy
+We reserve the right to update or modify this Privacy Policy at any time to reflect updates to our operational practices or shifting regulatory requirements. We will notify you of any material changes by posting the updated policy directly on this page and updating the "Last Updated" date above. Continued use of the Application following the deployment of changes constitutes your acknowledgment of the revised terms. 
 
