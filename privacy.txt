@@ -22,6 +22,7 @@ Operational Interaction Logs: Timestamps mapping the initiation and completion o
 B. Data Processed with Your Explicit Consent
 User Feedback: If you submit feedback through our internal features, we process your submitted title, descriptive input, and any uploaded image configurations. This material is confidential and restricted solely to administrative review.
 Device Identifiers & Performance Optimization: With your explicit consent via our launch prompt, we analyze behavioral flow metadata using analytical software metrics.
+Pre-Launch & Marketing Waitlists: If you submit your email address through our pre-launch sign-up forms (including Meta Lead Ads), we process your email strictly with your explicit consent (Art. 6(1)(a) GDPR) to send you campaign launch notifications. You can unsubscribe or request deletion at any time via findingfinnpeace@gmail.com.
 
 C. Data Received from Third-Party Crowdfunding Platforms & Manual Processing
 
