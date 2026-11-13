@@ -1,3 +1,4 @@
+4.11.2026
 Terms and Conditions for FinnPeace
 
 Effective Date: November 4, 2026
@@ -38,6 +39,7 @@ Subsequent Subscription Renewal Architecture: Following the conclusion of the in
 Alternative Entitlement Structures: Crowdfunding backers acknowledge that their premium access may be fulfilled via manual administrative whitelisting, promotional database flags managed directly by the Developer, or native storefront promotional codes. Depending on the technical allocation path chosen by the Developer, these accounts may feature alternative billing statuses that bypass standard consumer subscription dashboards, and active transactional receipts may or may not appear within the User’s Apple ID or Google Play billing history. 
 Subsequent Storefront Purchases: If a crowdfunding backer who has already been granted premium access later manually initiates a separate paid subscription directly through the Apple App Store or Google Play Store, that storefront transaction is handled exclusively by Apple or Google under Section 3. The Developer cannot automatically cancel, override, or refund storefront subscriptions to clear space for a crowdfunding perk. The User assumes full responsibility for managing their active app store subscriptions to avoid duplicate billing.
 Subsequent Governance: Following account redemption, all software usage, active premium feature lifespans, app store integrations, and limitations of liability are fully subject to the standard provisions of these Terms, regardless of whether the Application was already live on public storefronts at the time of the campaign.
+Project Cancellation and Non-Delivery: In the unlikely event that Sqiara Oy is unable to launch the Application or fulfill crowdfunding rewards, we will notify all backers promptly and handle cancellations and refunds in accordance with Indiegogo’s platform rules and mandatory consumer protection laws.
 
 4. Intellectual Property Rights
 Unless otherwise indicated, the Application, including all source code, databases, functionality, software, website designs, audio files, video files, text, photographs, and graphics within the Application (collectively, the "Content") are owned or controlled by us and are protected by copyright, trademark, and intellectual property laws. You are granted a limited, non-exclusive, non-transferable, and revocable license to use the Application strictly for your personal, non-commercial use. You must not copy, reproduce, or distribute any Content for commercial purposes without our express prior written permission.
