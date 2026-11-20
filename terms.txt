@@ -2,7 +2,7 @@
 Terms and Conditions for FinnPeace
 
 Effective Date: November 4, 2026
-Last Updated: November 4, 2026
+Last Updated: November 20, 2026
 
 These Terms and Conditions ("Terms") form a legally binding agreement between you ("User" or "you") and Sqiara Oy ("Developer," "we," "us," or "our"), governing your access to and use of the mobile application FinnPeace (the "Application") and any related media channels, marketing materials, or content streams.
 By downloading, installing, or accessing FinnPeace, you explicitly agree to be bound by these Terms. If you do not agree with any part of these Terms, you are strictly prohibited from using the Application.
@@ -40,6 +40,8 @@ Alternative Entitlement Structures: Crowdfunding backers acknowledge that their 
 Subsequent Storefront Purchases: If a crowdfunding backer who has already been granted premium access later manually initiates a separate paid subscription directly through the Apple App Store or Google Play Store, that storefront transaction is handled exclusively by Apple or Google under Section 3. The Developer cannot automatically cancel, override, or refund storefront subscriptions to clear space for a crowdfunding perk. The User assumes full responsibility for managing their active app store subscriptions to avoid duplicate billing.
 Subsequent Governance: Following account redemption, all software usage, active premium feature lifespans, app store integrations, and limitations of liability are fully subject to the standard provisions of these Terms, regardless of whether the Application was already live on public storefronts at the time of the campaign.
 Project Cancellation and Non-Delivery: In the unlikely event that Sqiara Oy is unable to launch the Application or fulfill crowdfunding rewards, we will notify all backers promptly and handle cancellations and refunds in accordance with Indiegogo’s platform rules and mandatory consumer protection laws.
+Work-in-Progress Visuals & Features: All app screenshots, layouts, and sound options shown on the crowdfunding page reflect active pre-launch development and may be refined before the official 2027 App Store and Google Play release.
+
 
 4. Intellectual Property Rights
 Unless otherwise indicated, the Application, including all source code, databases, functionality, software, website designs, audio files, video files, text, photographs, and graphics within the Application (collectively, the "Content") are owned or controlled by us and are protected by copyright, trademark, and intellectual property laws. You are granted a limited, non-exclusive, non-transferable, and revocable license to use the Application strictly for your personal, non-commercial use. You must not copy, reproduce, or distribute any Content for commercial purposes without our express prior written permission.
